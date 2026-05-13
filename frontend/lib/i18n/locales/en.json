@@ -1,0 +1,97 @@
+{
+  "app": {
+    "title": "Staff Management",
+    "subtitle": "Manage staff members — add, edit, delete, search, and export."
+  },
+  "search": {
+    "placeholder": "Search by Staff ID...",
+    "advanced": "Advanced",
+    "showingResults": "Showing search results",
+    "for": "for",
+    "clearFilters": "Clear filters"
+  },
+  "staff": {
+    "add": "Add Staff",
+    "edit": "Edit",
+    "delete": "Delete",
+    "staffId": "Staff ID",
+    "fullName": "Full Name",
+    "birthday": "Birthday",
+    "gender": "Gender",
+    "actions": "Actions",
+    "noStaff": "No staff found.",
+    "recordsTotal": "record(s) total",
+    "record": "record",
+    "rows": "Rows"
+  },
+  "pagination": {
+    "previous": "Previous",
+    "next": "Next",
+    "page": "Page",
+    "of": "of"
+  },
+  "form": {
+    "editTitle": "Edit Staff",
+    "addTitle": "Add Staff",
+    "editDescription": "Update the staff member information below.",
+    "addDescription": "Fill in the details to add a new staff member.",
+    "staffIdPlaceholderNew": "e.g. STF00001",
+    "fullNamePlaceholder": "Enter full name",
+    "pickDate": "Pick a date",
+    "selectGender": "Select gender",
+    "cancel": "Cancel",
+    "update": "Update",
+    "create": "Create"
+  },
+  "deleteDialog": {
+    "title": "Delete Staff",
+    "description": "Are you sure you want to delete",
+    "cannotUndo": "This action cannot be undone."
+  },
+  "advancedSearch": {
+    "title": "Advanced Search",
+    "staffId": "Staff ID",
+    "staffIdPlaceholder": "Enter Staff ID",
+    "fullNamePlaceholder": "Enter full name",
+    "gender": "Gender",
+    "all": "All",
+    "birthdayRange": "Birthday Range",
+    "pickDateRange": "Pick a date range",
+    "search": "Search",
+    "reset": "Reset"
+  },
+  "export": {
+    "excel": "Export Excel",
+    "pdf": "Export PDF"
+  },
+  "gender": {
+    "male": "Male",
+    "female": "Female",
+    "unknown": "Unknown"
+  },
+  "validation": {
+    "staffIdRequired": "Staff ID is required",
+    "staffIdLength": "Staff ID must be exactly 8 characters",
+    "fullNameRequired": "Full name is required",
+    "fullNameMax": "Full name must be at most 100 characters",
+    "birthdayRequired": "Birthday is required",
+    "genderRequired": "Gender is required",
+    "invalidGender": "Invalid gender value"
+  },
+  "toast": {
+    "created": "Staff member created successfully",
+    "updated": "Staff member updated successfully",
+    "deleted": "Staff member deleted successfully"
+  },
+  "exportUtils": {
+    "staffReport": "Staff Report",
+    "staff": "Staff"
+  },
+  "theme": {
+    "switchTo": "Switch to {{mode}} mode"
+  },
+  "language": {
+    "km": "ភាសាខ្មែរ",
+    "en": "English"
+  }
+}

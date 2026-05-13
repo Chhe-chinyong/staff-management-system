@@ -1,0 +1,97 @@
+{
+  "app": {
+    "title": "ការគ្រប់គ្រងបុគ្គលិក",
+    "subtitle": "គ្រប់គ្រងបុគ្គលិក — បញ្ចូល កែប្រែ លុប ស្វែងរក និងនាំចេញ។"
+  },
+  "search": {
+    "placeholder": "ស្វែងរកតាមលេខកូដបុគ្គលិក...",
+    "advanced": "កម្រិតខ្ពស់",
+    "showingResults": "បង្ហាញលទ្ធផលស្វែងរក",
+    "for": "សម្រាប់",
+    "clearFilters": "សម្អាតតម្រង"
+  },
+  "staff": {
+    "add": "បញ្ចូលបុគ្គលិក",
+    "edit": "កែប្រែ",
+    "delete": "លុប",
+    "staffId": "លេខកូដបុគ្គលិក",
+    "fullName": "ឈ្មោះពេញ",
+    "birthday": "ថ្ងៃខែឆ្នាំកំណើត",
+    "gender": "ភេទ",
+    "actions": "សកម្មភាព",
+    "noStaff": "រកមិនឃើញបុគ្គលិក។",
+    "recordsTotal": "រ៉កកallback",
+    "record": "រ៉កកallback",
+    "rows": "ជួរដេក"
+  },
+  "pagination": {
+    "previous": "មុន",
+    "next": "បន្ទាប់",
+    "page": "ទំព័រ",
+    "of": "នៃ"
+  },
+  "form": {
+    "editTitle": "កែប្រែបុគ្គលិក",
+    "addTitle": "បញ្ចូលបុគ្គលិក",
+    "editDescription": "ធ្វើបច្ចុប្បន្នភាពព័ត៌មានបុគ្គលិកខាងក្រោម។",
+    "addDescription": "បំពេញព័ត៌មានដើម្បីបញ្ចូលបុគ្គលិកថ្មី។",
+    "staffIdPlaceholderNew": "ឧ. STF00001",
+    "fullNamePlaceholder": "បញ្ចូលឈ្មោះពេញ",
+    "pickDate": "ជ្រើសរើសថ្ងៃ",
+    "selectGender": "ជ្រើសរើសភេទ",
+    "cancel": "បោះបង់",
+    "update": "ធ្វើបច្ចុប្បន្នភាព",
+    "create": "បង្កើត"
+  },
+  "deleteDialog": {
+    "title": "លុបបុគ្គលិក",
+    "description": "តើអ្នកប្រាកដទេថាចង់លុប",
+    "cannotUndo": "សកម្មភាពនេះមិនអាចមើលឃើញវិញបានទេ។"
+  },
+  "advancedSearch": {
+    "title": "ស្វែងរកកម្រិតខ្ពស់",
+    "staffId": "លេខកូដបុគ្គលិក",
+    "staffIdPlaceholder": "បញ្ចូលលេខកូដបុគ្គលិក",
+    "fullNamePlaceholder": "បញ្ចូលឈ្មោះពេញ",
+    "gender": "ភេទ",
+    "all": "ទាំងអស់",
+    "birthdayRange": "ជួរថ្ងៃខែឆ្នាំកំណើត",
+    "pickDateRange": "ជ្រើសរើសជួរថ្ងៃ",
+    "search": "ស្វែងរក",
+    "reset": "កំណត់ឡើងវិញ"
+  },
+  "export": {
+    "excel": "នាំចេញ Excel",
+    "pdf": "នាំចេញ PDF"
+  },
+  "gender": {
+    "male": "ប្រុស",
+    "female": "ស្រី",
+    "unknown": "មិនស្គាល់"
+  },
+  "validation": {
+    "staffIdRequired": "តម្រូវឱ្យបញ្ចូលលេខកូដបុគ្គលិក",
+    "staffIdLength": "លេខកូដបុគ្គលិកត្រូវតែមាន ៨ តួអក្សរ",
+    "fullNameRequired": "តម្រូវឱ្យបញ្ចូលឈ្មោះពេញ",
+    "fullNameMax": "ឈ្មោះពេញត្រូវតែមិនលើស ១០០ តួអក្សរ",
+    "birthdayRequired": "តម្រូវឱ្យបញ្ចូលថ្ងៃខែឆ្នាំកំណើត",
+    "genderRequired": "តម្រូវឱ្យជ្រើសរើសភេទ",
+    "invalidGender": "តម្លៃភេទមិនត្រឹមត្រូវ"
+  },
+  "toast": {
+    "created": "បុគ្គលិកត្រូវបានបង្កើតដោយជោគជ័យ",
+    "updated": "បុគ្គលិកត្រូវបានធ្វើបច្ចុប្បន្នភាពដោយជោគជ័យ",
+    "deleted": "បុគ្គលិកត្រូវបានលុបដោយជោគជ័យ"
+  },
+  "exportUtils": {
+    "staffReport": "របាយការណ៍បុគ្គលិក",
+    "staff": "បុគ្គលិក"
+  },
+  "theme": {
+    "switchTo": "ប្តូរទៅ{{mode}}"
+  },
+  "language": {
+    "km": "ភាសាខ្មែរ",
+    "en": "English"
+  }
+}

@@ -2,6 +2,8 @@
 
 A small full-stack app to manage staff records: list, search, create, update, and delete staff via a REST API and a web UI.
 
+![Staff Management dashboard mockup](mockup.jpeg)
+
 - **Backend:** ASP.NET Core 8 Web API, Entity Framework Core, SQL Server (or Docker)
 - **Frontend:** Next.js 16 with React 19
 
